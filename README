@@ -1,14 +1,7 @@
-interesting Datasets: 
+https://www.kaggle.com/rocki37/open-university-learning-analytics-dataset
 
-Enron Senior Exec Emails for NLP
-https://www.cs.cmu.edu/~enron/
+This dataset is a treasure trove in my opinion. 
+It measures the behaviour, satisfaction and performance of Phd candidates from Open University. 
+I'm thinking we could program a predictor of student performance based on the behaviour and feedback of students. 
 
-Mall Customers to predict spending habits
-https://www.kaggle.com/shwetabh123/mall-customers
-
-Student Performance
-https://www.kaggle.com/aljarah/xAPI-Edu-Data/code
-
-
-  
-  
+The challenge will be to integrate all the different datasets together; there is something like 10 CSV files in there. 
